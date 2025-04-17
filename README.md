@@ -1,3 +1,8 @@
+Director of A-Codex Company
+
+I'll be successful, just give me time.
+
+
 Задание 1. Реализовать один интерфейс с одним методом в производном классе.
 
 1.Создайте интерфейс с именем IInterface.
