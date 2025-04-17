@@ -1,3 +1,7 @@
+Director of A-Codex Company
+
+I'll be successful, just give me time.
+
 Задание 2. Объявить один интерфейс, в котором содержатся 4 метода:
 
 1.метод, возвращающий число PI;
