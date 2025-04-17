@@ -1,0 +1,6 @@
+D:\ангел 215\ConsoleApp12\bin\Debug\ConsoleApp12.exe.config
+D:\ангел 215\ConsoleApp12\bin\Debug\ConsoleApp12.exe
+D:\ангел 215\ConsoleApp12\bin\Debug\ConsoleApp12.pdb
+D:\ангел 215\ConsoleApp12\obj\Debug\ConsoleApp12.csproj.CoreCompileInputs.cache
+D:\ангел 215\ConsoleApp12\obj\Debug\ConsoleApp12.exe
+D:\ангел 215\ConsoleApp12\obj\Debug\ConsoleApp12.pdb
